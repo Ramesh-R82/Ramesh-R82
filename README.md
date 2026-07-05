@@ -20,7 +20,7 @@
 ## 🧠 About Me
 
 ```python
-class RajeshKumarP:
+class Ramesh R:
     name       = "Ramesh R"
     username   = "Ramesh-R82"
     role       = "MERN Stack Developer"
