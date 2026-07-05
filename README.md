@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramesh%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%2F%20AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20Open%20to%20Internships&descAlignY=53&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramesh%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Internships&descAlignY=53&descSize=18"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ramesh+R+👋;ML+%2F+AI+Engineer+in+the+Making+🤖;Building+Intelligent+Systems+🧠;LangChain+%7C+Scikit-learn+%7C+Python+🐍;Open+to+Internship+Opportunities+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ramesh+R+👋;BCA+Developer+in+the+Making+🤖;Building+Creativity+projects+🧠;MERN+Stack+%7C+JAVA+%7C+Python+🐍;Open+to+Internship+Opportunities+🚀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,6 +42,34 @@ class RajeshKumarP:
 
 <div align="center">
 
+### LANGUAGES
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+### FRAMEWORKS & LIBRARIES
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-
+
+### DATABASES
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+### DESIGN
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+### TOOLS AND PLATFORM
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 </div>
@@ -87,7 +115,7 @@ class RajeshKumarP:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarjesh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/kumarjesh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumarjesh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ramesh-R82)
 
 </div>
 
